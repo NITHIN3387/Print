@@ -1,0 +1,30 @@
+#section-1{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../images/college-bg-img.png');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    box-shadow: inset 200px 0 400px black;
+}
+
+#section-1 section .heading{
+    font-size: 4.8em;
+}
+
+.button{
+    background-color: #98cb19;
+}
+
+#section-2{
+    height: 100vh;
+}
+
+#section-2 section .heading{
+    font-size: 3.5em;
+}
+
+#section-2 aside{
+    background-image: url('../images/upload-file-bg.jpg');
+    background-position: center;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
